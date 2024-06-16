@@ -24,6 +24,9 @@
      1. To streamline setup time, this system is designed to use only one power cable and combine all units into a single unit.
      2. Due to the curious nature to others of raw motherboards/exposed wires, 3D models have been designed to enclose all components in a compact,
         clean body to avoid unnecessary interactions with security agent, particular airline security.
+
+### Wireless Access:
+    1. The hypervisor will be configured for interfacing via one of the ethernet ports. Because of this, internet access will not be universally 
         
 ### Setup Process Overview:
     1. 3D print enclosure components & assemble hardware.
@@ -31,4 +34,4 @@
     3. Create virtual network security and VPN machines.
     4. Setup access point.
     5. Create and configure NAS.
-    6. Create other virtual machines as needed
+    6. Create other virtual machines as needed.
